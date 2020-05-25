@@ -1,0 +1,6 @@
+{
+	"Please make sure the username, userId all exist": "请确保用户名，用户ID都存在",
+	"Please confirm that the user name and password are correct": "请确认用户名密码正确",
+	"Login success": "登录成功",
+	"Failed to request Java login interface": "请求java登录接口失败"
+}

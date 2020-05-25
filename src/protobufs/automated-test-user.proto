@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package automated_test_user;
+
+
+service UserService {
+  rpc Login(LoginRequest) returns (StringDataResponse) {}
+}
+
+message StringDataResponse {
+  int32 code = 1;
+  string message = 2;
+  string data = 3;
+}
+
+
+message LoginRequest {
+  string username = 1;
+  string password = 2;
+}

@@ -1,0 +1,6 @@
+{
+    "Please make sure the username, userId all exist": "Please make sure the username, userId all exist",
+    "Please confirm that the user name and password are correct": "Please confirm that the user name and password are correct",
+    "Login success": "Login success",
+    "Failed to request Java login interface": "Failed to request Java login interface"
+}
